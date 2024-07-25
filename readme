@@ -1,0 +1,10 @@
+ABSTRACT :
+Autonomous robot is an intelligent device that can automatically sense the obstacle in front of it and avoid them by turning itself in another direction. If robot finds any obstacle it changes the direction and continue moving.This design allows the robot to navigate in an unknown environment by avoiding collisions, which is a primary requirement for any autonomous mobile robot.
+The application of the this robot is not limited and it is used in most of the military organizations now which helps carry out many risky jobs that cannot be done by
+any soldiers. This Autonomous vehicle robot is built using an ultrasonic sensor and Arduino. Here an Ultrasonic sensor is use to sense the obstacles in the path by calculating the distance between the robot and obstacle.
+Testing and evaluation of the project involves measuring the accuracy of the robot's obstacle detection and avoidance capabilities, including its speed, range, turning radius, and stability. 
+The obstacle avoidance project can be used in various fields such as home automation, surveillance systems, and manufacturing industries, where autonomous robots can prevent accidents and improve efficiency. 
+The project is design to build an obstacle avoidance robotic vehicle using ultrasonic sensors for its movement. A microcontroller (ATmega328) is used to achieve the desired operation.
+A robot is a machine that can perform task automatically or with guidance. It can be programmed to control the way buttons, motors, switches, lights, and other electronic parts work together.
+The creation of an obstacle avoiding project is an excellent way to showcase the potential of autonomous robotics and their many practical applications.
+The capacity of these systems to identify and navigate obstacles autonomously can save lives and reduce human error in critical applications
